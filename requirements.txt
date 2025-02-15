@@ -1,0 +1,4 @@
+jax==0.4.35
+pandas==2.2.3
+pyarrow==16.1.0
+pydub==0.25.1 
